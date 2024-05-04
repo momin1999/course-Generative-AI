@@ -176,3 +176,6 @@ for (let i = 1; i <= 10; i++)
     let r = n * i;
     console.log(`${n} * ${i} = ${r}`);
 }
+// Write a program that prints the multiplication table of a given number up to 10
+
+
